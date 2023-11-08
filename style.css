@@ -1,0 +1,74 @@
+html {
+    color:rgb(180, 226, 226);
+    background-color: black;
+}
+body {
+    margin: 0;
+}
+header {
+    background-image: url(universo.png);
+    font-size: 2rem;
+    text-align: center;
+    height: 5rem;
+
+}
+main{
+    margin: 1rem;
+}
+
+p {
+    text-indent: 2rem;
+}
+footer {
+    background-color: rgb(25, 25, 170);
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+
+}
+h1{
+    font-size: 50px;
+}
+#PaginaInicial {
+    background-color: rgb(25, 25, 170);
+    height: 3rem;
+    width: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 77rem;
+
+    
+}
+a.github{
+        margin-left: 1rem;
+}
+a.linkespecial {
+    color:rgb(179, 35, 35);
+
+}
+a.linkespecial:visited {
+    color:rgb(179, 35, 35);
+}
+a.linkespecial:hover {
+    color:rgb(255, 255, 255);
+}
+a.linkespecial:active {
+    color:rgb(2, 255, 36);
+}
+
+
+/*Se tiver botão para mostrar e ocultar
+.bmostrar {
+    height: 2rem;
+    width: 2rem;
+}
+/*
